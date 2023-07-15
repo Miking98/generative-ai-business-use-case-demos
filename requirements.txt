@@ -1,0 +1,11 @@
+transformers
+openai
+python-dotenv
+sentence_transformers
+chroma
+pandas
+numpy
+tqdm
+tiktoken
+langchain
+matplotlib
